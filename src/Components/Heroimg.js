@@ -11,7 +11,7 @@ const Heroimg = () => {
             <img className="myimg" src={myimg} alt="myimg"/>
         </div>
         <div className="content">
-            <p>RESPONSIVE design, React-HTML-CSS-JavaScript.</p>
+            <p>I build things for the Web.</p>
             <h1>Full Stack Developer.</h1>
             <div>
                 <Link to="/project" className="btn">Project</Link>
