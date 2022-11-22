@@ -23,7 +23,7 @@ const Aboutcontent = () => {
           size="large">Resume
         </button> */}
 
-        <a href="https://drive.google.com/file/d/1okxedlLQvEqGzH0lLfBH_dYiyTpZjB4X/view?usp=drivesdk">
+        <a href="https://drive.google.com/file/d/1xTMuy_JQ6GFRd2sErqL8KN07Z4SvaS0M/view?usp=share_link">
         <button className="btn">Resume</button>
         </a>
       </div>
