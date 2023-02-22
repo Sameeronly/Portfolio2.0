@@ -6,6 +6,8 @@ import htmll from "../images/html2.jpg";
 import python from "../images/python.png";
 import clang from "../images/th.jpg";
 
+
+
 import React from 'react';
 
 const Skillsdata = () => {

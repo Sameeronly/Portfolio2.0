@@ -1,11 +1,14 @@
 import "./About.css";
 
 import React from "react";
-import { Link } from "react-router-dom";
-import html from "../images/html.png";
-import css from "../images/css.png";
+
+import html from "../Components/images/html.png";
+import css from "../Components/images/css.png";
 
 const Aboutcontent = () => {
+  const handleClick = () => {
+    window.open("https://drive.google.com/file/d/1ESV4cEUbR24BzdRV_cRiT65IYoD3SXuS/view?usp=share_link");
+  };
   return (
     <div className="about">
       <div className="left">
@@ -14,19 +17,10 @@ const Aboutcontent = () => {
           I'm a react front end developer. I Create a responsive secure for my
           clients.
         </p>
-        {/* <Link to="https://drive.google.com/file/d/1okxedlLQvEqGzH0lLfBH_dYiyTpZjB4X/view?usp=drivesdk">
-            <button className="btn">Resume</button>
-        </Link> */}
-        {/* <button className="btn"
-          onClick={}
-          rel="noreferrer"
-          size="large">Resume
-        </button> */}
-
-        <a href="https://drive.google.com/file/d/1xTMuy_JQ6GFRd2sErqL8KN07Z4SvaS0M/view?usp=share_link">
-        <button className="btn">Resume</button>
-        </a>
-      </div>
+        
+      <button className="btn" onClick={handleClick}>Resume</button>
+    </div>
+      
 
       <div className="right">
         <div className="img-container">
@@ -34,7 +28,7 @@ const Aboutcontent = () => {
             <img src={html} className="img" alt="true" />
           </div>
           <div className="img-stack bottom">
-            <img src={css} className="img" alt="true" />
+           <img src={css} className="img" alt="true" />
           </div>
         </div>
       </div>

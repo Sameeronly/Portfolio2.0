@@ -1,8 +1,8 @@
-import spot from "../images/spot.jpg";
-import insta from "../images/insta.jpg";
-import ytclone from "../images/ytclone.png";
-import ytclone2 from "../images/ytclone2.jpg";
-import ytclone3 from "../images/ytclone3.webp";
+import spot from "../Components/images/spot.jpg";
+import insta from "../Components/images/insta.jpg";
+import ytclone from "../Components/images/ytclone.png";
+import ytclone2 from "../Components/images/ytclone2.jpg";
+import ytclone3 from "../Components/images/ytclone3.webp";
 
 
 

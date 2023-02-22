@@ -3,7 +3,7 @@ import React from 'react';
 import Nav from '../Components/Nav';
 import Footer from '../Components/Footer';
 import Heroimg2 from '../Components/Heroimg2';
-import Skillsdata from '../Components/Skillsdata';
+import Skill from '../Components/Skill';
 
 
 const Skills = () => {
@@ -12,10 +12,11 @@ const Skills = () => {
       <Nav/>
       <Heroimg2 heading="My Skills." text= "Here are some of my proficiencies.">
       </Heroimg2>
-      <Skillsdata/>
+
+      <Skill/>
       <Footer/>
     </div>
   )
 }
 
-export default Skills
+export default Skills;
