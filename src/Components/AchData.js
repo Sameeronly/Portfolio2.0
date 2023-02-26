@@ -17,25 +17,25 @@ function Achievement() {
                   </div>
                   <div className="container">
                     <div className="row">
-                      <h1 className="">Certificate of Completion</h1>
+                      <h1 className="comp">Certificate of Completion</h1>
                       <br />
                       <br />
                       <br />
                       <br />
-                      <div className="col-lg-6 col-md-12">
-                        <h3 className="fst-italic">
+
+
+                      <div className="fs">
+                        <h3 className="fst-italic"><i>
                           Full Stack Development &nbsp;{" "}
                          
-                        </h3>
-                        <div className="fs-5">
-                          Credential ID &nbsp;&nbsp;&nbsp;: 8331n9H2viA677R613
-                        </div>
-                        <div className="fs-5">
+                          </i></h3>
+                        
+                        <div className="certi">
                           Credential URL :{" "}
                           <a
                             href="https://drive.google.com/file/d/1wWQdIIMcPCqOyJ1YhwbhsH1fk1JB29oy/view?usp=share_link"
                             target={"_blank"}
-                            style={{ color: "brown" }}
+                            style={{ color: "green" }}
                           >
                             Click here to view My certificate
                           </a>
@@ -43,20 +43,18 @@ function Achievement() {
                       </div>
 
 
-                      <div className="col-lg-6 col-md-12">
-                        <h3 className="fst-italic">
+                      <div className="JS">
+                        <h3 className="fst-italic"><i>
                           Javascript &nbsp;{" "}
                           
-                        </h3>
-                        <div className="fs-5">
-                          Credential ID &nbsp;&nbsp;&nbsp;: 761XU9gw923E631H67
-                        </div>
-                        <div className="fs-5">
+                          </i></h3>
+                        
+                        <div className="certi">
                           Credential URL :{" "}
                           <a
                             href="https://drive.google.com/file/d/1glAaQLFdmRf1cOy9xWKO9NIqD04HZOdN/view?usp=share_link"
                             target={"_blank"}
-                            style={{ color: "brown" }}
+                            style={{ color: "green" }}
                           >
                             Click here to view My certificate
                           </a>
@@ -68,23 +66,21 @@ function Achievement() {
                   <br />
 
 
-                  <div className="container">
+                  <div className="container1">
                     <div className="row">
                       {/* <h1 className=''>Certificate of Completion</h1><br/><br/><br/><br/> */}
-                      <div className="col-lg-6 col-md-12">
-                        <h3 className="fst-italic">
+                      <div className="rj">
+                        <h3 className="fst-italic"><i>
                           React Js &nbsp;{" "}
                           
-                        </h3>
-                        <div className="fs-5">
-                          Credential ID &nbsp;&nbsp;&nbsp;: u646G31v7j21Me793b
-                        </div>
-                        <div className="fs-5">
+                          </i></h3>
+                        
+                        <div className="certi">
                           Credential URL :{" "}
                           <a
                             href="https://drive.google.com/file/d/1eHJqaWMdz2GrbsamQiMqAIO_J9P4WzW0/view?usp=share_link"
                             target={"_blank"}
-                            style={{ color: "brown" }}
+                            style={{ color: "green" }}
                           >
                             Click here to view My certificate
                           </a>
@@ -92,20 +88,18 @@ function Achievement() {
                       </div>
 
 
-                      <div className="col-lg-6 col-md-12">
-                        <h3 className="fst-italic">
-                          React + Redux &nbsp;{" "}
+                      <div className="NODE">
+                        <h3 className="fst-italic"><i>
+                          Node Js &nbsp;{""}
                           
-                        </h3>
-                        <div className="fs-5">
-                          Credential ID &nbsp;&nbsp;&nbsp;: CT-LDFTG6IO
-                        </div>
-                        <div className="fs-5">
-                          Credential URL :{" "}
+                          </i></h3>
+                       
+                        <div className="certi">
+                          Credential URL :{""}
                           <a
-                            href="https://www.sololearn.com/certificates/CT-LDFTG6IO"
+                            href="https://drive.google.com/file/d/1mDExtqvrVXf_yM6lW3OILFvIO9IDwHAV/view?usp=share_link"
                             target={"_blank"}
-                            style={{ color: "brown" }}
+                            style={{ color: "green" }}
                           >
                             Click here to view My certificate
                           </a>
@@ -121,20 +115,18 @@ function Achievement() {
                   <div className="container">
                     <div className="row">
                       {/* <h1 className=''>Certificate of Completion</h1><br/><br/><br/><br/> */}
-                      <div className="col-lg-6 col-md-12">
-                        <h3 className="fst-italic">
-                          Node JS &nbsp;{" "}
+                      <div className="sql">
+                        <h3 className="fst-italic"><i>
+                          MySql &nbsp;{""}
                           
-                        </h3>
-                        <div className="fs-5">
-                          Credential ID &nbsp;&nbsp;&nbsp;: p6612938A3Z1Ns977B
-                        </div>
-                        <div className="fs-5">
+                          </i></h3>
+                      
+                        <div className="certi">
                           Credential URL :{" "}
                           <a
-                            href="https://www.guvi.in/verify-certificate?id=p6612938A3Z1Ns977B"
+                            href="https://drive.google.com/file/d/1ZJY7TgOqry75X6d5FaQ11oL7HiVUoLc4/view?usp=share_link"
                             target={"_blank"}
-                            style={{ color: "brown" }}
+                            style={{ color: "green" }}
                           >
                             Click here to view My certificate
                           </a>
@@ -142,20 +134,18 @@ function Achievement() {
                       </div>
 
                       
-                      <div className="col-lg-6 col-md-12">
-                        <h3 className="fst-italic">
+                      <div className="MONG">
+                        <h3 className="fst-italic"><i>
                           MongoDB &nbsp;{" "}
                           
-                        </h3>
-                        <div className="fs-5">
-                          Credential ID &nbsp;&nbsp;&nbsp;: g2Q1767v3Y6R1p39sk
-                        </div>
-                        <div className="fs-5">
+                          </i></h3>
+                      
+                        <div className="certi">
                           Credential URL :{" "}
                           <a
-                            href="https://www.guvi.in/verify-certificate?id=g2Q1767v3Y6R1p39sk"
+                            href="https://drive.google.com/file/d/11nDkA4bWToPq103ZhA-1-LagbdyNtPVS/view?usp=share_link"
                             target={"_blank"}
-                            style={{ color: "brown" }}
+                            style={{ color: "green" }}
                           >
                             Click here to view My certificate
                           </a>

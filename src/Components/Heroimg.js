@@ -22,4 +22,4 @@ const Heroimg = () => {
   )
 }
 
-export default Heroimg
+export default Heroimg;

@@ -1,5 +1,5 @@
 import spot from "../Components/images/spot.jpg";
-import insta from "../Components/images/insta.jpg";
+import snake from "../Components/images/Wh.jpg";
 import ytclone from "../Components/images/ytclone.png";
 import ytclone2 from "../Components/images/ytclone2.jpg";
 import ytclone3 from "../Components/images/ytclone3.webp";
@@ -15,11 +15,11 @@ const ProjectCardData = [
         source: "https://github.com/Sameeronly/Spotify-Clone.git"
     },
     {
-        imgsrc: insta,
-        title: "Insta-Clone",
-        text: "The Insta clone is designed by using HTML, CSS, React and JavaScript. A clone layout of the Insta music app web process of creating a replica of your existing website. A website cloning developing and designers create blueprints, test compatibility, and perform updates before implementing the changes on your live website.",
-        view: "https://insta-clone-gray-rho.vercel.app/",
-        source: "https://github.com/Sameeronly/Insta-Clone.git"
+        imgsrc: snake,
+        title: "SnakeMania",
+        text: "The Snake game is designed by using HTML, CSS and JavaScript.",
+        view: "https://snake-game-henna-five.vercel.app/",
+        source: "https://github.com/Sameeronly/SnakeGame"
     },
     {
         imgsrc: ytclone3,

@@ -1,0 +1,17 @@
+.breadcrumbs {
+    padding: 20px 0;
+    background: black;
+    color: white;
+  }
+
+  .JS, .NODE, .MONG {
+    margin-left: 1000px;
+  }
+
+.section-title, .comp {
+    text-align: center;
+}
+
+.fs, .rj, .sql {
+    margin-left: 100px;
+  }
